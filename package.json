@@ -10,7 +10,9 @@
     "start": "node dist/index.js",
     "dev": "nodemon src/index.ts",
     "format:check": "npx prettier . --check",
-    "format:fix": "npx prettier . --write"
+    "format:fix": "npx prettier . --write",
+    "lint": "npx eslint src/",
+    "lint:fix": "npx eslint --fix src/"
   },
   "keywords": [],
   "author": "",

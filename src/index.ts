@@ -1,4 +1,4 @@
-const greeting: String = 'Hello World'
-const projectName: String = 'typeScript-node-boilerplate'
+const greeting: string = 'Hello World'
+const projectName: string = 'typeScript-node-boilerplate';
 
 console.log(`${greeting} from ${projectName}`)
