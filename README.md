@@ -12,6 +12,10 @@ Minimalistic project template to jump start a Node.js back-end application in Ty
 
 ## Getting Started
 
+### Prerequisite
+
+- Node v20.x (LTS) or later
+
 There are many ways to use the template:
 
 ### A. Use as a repository template
