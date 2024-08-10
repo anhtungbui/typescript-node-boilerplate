@@ -1,3 +1,4 @@
-const greeting: String = 'Hello TypeScript-Node';
+const greeting: String = 'Hello World';
+const projectName: String = 'TypeScript-Node-Starter';
 
-console.log(greeting);
+console.log(`${greeting} from ${projectName}`);
