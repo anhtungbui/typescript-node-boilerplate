@@ -4,6 +4,7 @@ import tseslint from 'typescript-eslint'
 
 const customRules = {
   rules: {
+    'no-unused-vars': 'off',
     '@typescript-eslint/no-unused-vars': 'warn',
   },
 }
