@@ -9,7 +9,7 @@
     "test:watch": "npx jest --watch",
     "build": "npx tsc",
     "start": "node dist/index.js",
-    "dev": "nodemon src/index.ts",
+    "dev": "npx nodemon",
     "format:check": "npx prettier . --check",
     "format:fix": "npx prettier . --write",
     "lint": "npx eslint src/",
