@@ -16,7 +16,7 @@
     "lint:fix": "npx eslint --fix src/"
   },
   "keywords": [],
-  "author": "",
+  "author": "Anh Tung Bui <abui.dev>",
   "license": "ISC",
   "devDependencies": {
     "@eslint/js": "^9.9.0",
