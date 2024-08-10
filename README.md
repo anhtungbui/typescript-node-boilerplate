@@ -1,6 +1,13 @@
 # TypeScript Node Boilerplate
 
-Minimalistic project template to jump start a Node.js back-end application in TypeScript.
+Minimalistic project template to jump start a Node.js back-end application in TypeScript
+
+## Pre-configured
+
+- ESLint
+- Prettier
+- Jest
+- Nodemon
 
 ## Authors
 
