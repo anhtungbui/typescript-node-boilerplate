@@ -1,8 +1,9 @@
-# TypeScript Node Boilerplate
+# TypeScript Node Boilerplate 🚀
 
-Minimalistic project template to jump start a Node.js back-end application in TypeScript
+- Minimalistic project template to jump start a Node.js back-end application in TypeScript
+- Need Express.js too? Check out [typescript-express-boilerplate](https://github.com/anhtungbui/typescript-express-boilerplate) instead.
 
-## Pre-configured tools
+## Pre-configured tools ⚙️
 
 - ESLint
 - Prettier
